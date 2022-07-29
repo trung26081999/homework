@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 0;
+    
+}
+.row{
+    
+    border: 1px solid #000;
+    border-radius: 30px;
+   background-color: rgb(231, 235, 235);
+   box-shadow: rgba(rgba(255, 0, 0, 0.651), rgba(79, 128, 0, 0.596), rgba(139, 139, 196, 0.562), alpha);
+}
+.nav{
+    background-color: darkkhaki;
+    
+}
